@@ -1,4 +1,4 @@
-# new_yorker.2025.09.08
+# TheEconomist.2025.09.06
 --------------
 ## 阅读器推荐
 <a href="https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github" target="_blank">
@@ -14,7 +14,7 @@
 
 ---------------------
 ## 杂志下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2025.09.08/new_yorker.2025.09.08.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2025.09.08/new_yorker.2025.09.08.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2025.09.08/new_yorker.2025.09.08.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2025.09.06/TheEconomist.2025.09.06.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2025.09.06/TheEconomist.2025.09.06.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2025.09.06/TheEconomist.2025.09.06.pdf)
     
